@@ -1,5 +1,6 @@
 # 🚀 LLM Interview Questions and Answers Hub
 This repository contains 100+ LLM interview questions with answers.
+![AIxFunda Newsletter](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub/blob/main/Interview_QA/images/2-.jpg)
 
 
 ## Related Repositories
