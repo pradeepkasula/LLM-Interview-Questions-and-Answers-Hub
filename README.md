@@ -127,4 +127,9 @@ This repository includes 100+ LLM interview questions with answers.
 | Q115 | What is the significance of self-supervised learning in LLM pretraining? | [Answer](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub/blob/main/Interview_QA/QA_115-117.md) |
 
 
+## ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub&type=Date)](https://star-history.com/#)
+
+Please consider giving a star, if you find this repository useful. 
 
